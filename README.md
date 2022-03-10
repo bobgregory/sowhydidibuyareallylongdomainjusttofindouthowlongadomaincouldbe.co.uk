@@ -8,7 +8,7 @@ This is the repo for the https://sowhydidibuyareallylongdomainjusttofindouthowlo
 * [Downloads System](#downloads-system)
 
 ## General Info
-This is a shitpost
+This is a shitpost<br>
 It was programmed by [Hugo Switt](https://github.com/bobgregory)<br>
 It is hosted and owned by [That Guy Jack](https://github.com/that-guy-jack)
 ## The Origin
