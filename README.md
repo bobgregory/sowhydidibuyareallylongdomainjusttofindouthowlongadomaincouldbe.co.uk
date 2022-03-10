@@ -5,7 +5,6 @@ This is the repo for the https://sowhydidibuyareallylongdomainjusttofindouthowlo
 ## Table of contents
 * [General info](#general-info)
 * [The Origin](#the-origin)
-* [Downloads System](#downloads-system)
 
 ## General Info
 This is a shitpost<br>
